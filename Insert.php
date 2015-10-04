@@ -4,7 +4,7 @@ $host="localhost";
 $user="root";
 $pass="root";
 
-$username="RAIN";
+
 
 $pdo = new PDO("mysql:dbname={$dbname};host={$host}", $user,$pass);
 
